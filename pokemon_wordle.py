@@ -4,7 +4,7 @@ import random
 
 # Target Name Rules: Character Length < 10, No Spaces, No Hyphens
 
-names_file_path = r'C:\Users\cholland\OneDrive - Advanced Micro Devices Inc\Desktop\C0DE\My Python Files\Pokemon Wordle\pokemon-names.txt'
+names_file_path = 'PATH ...' # Change
 
 #Methods() ...
 def Draw_Initial_Grid():
